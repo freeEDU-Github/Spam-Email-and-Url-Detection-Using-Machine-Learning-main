@@ -4,3 +4,4 @@ joblib
 streamlit
 numpy
 scikit-learn
+nltk
