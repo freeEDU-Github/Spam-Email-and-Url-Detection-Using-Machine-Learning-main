@@ -7,7 +7,6 @@ import nltk
 from PIL import Image
 
 nltk.download('stopwords')
-import tensorflow as tf
 import pickle
 import joblib
 import streamlit as st
